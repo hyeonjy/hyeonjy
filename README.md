@@ -1,19 +1,17 @@
-<h1>
+<h2>
   <img src="https://github.com/user-attachments/assets/3f24835e-4ab5-4f59-aed5-236bed686e8c" width="40px" align="absmiddle" />
   Hyeonjy Github
-</h1>
+</h2>
 
 안녕하세요! 주니어 개발자 김현지 입니다.<br>
 늘 도전하고 성장하고 있습니다.
 
-<br />
 
 ## 🌟 Experience
 - 내일배움캠프 REACT 7기 `2024.09 ~ 2025.02`
 - 세종대학교 지능기전공학부 스마트기기공학 전공 `2019.03 ~ 2024.08`
 - 나눔과기술 창의설계온라인 경진대회 [함께서기](https://github.com/hwangJN/Youth-Project) 특별상 `2022.10 ~ 2022.11`
 
-<br />
 
 ## 📊 Activity
 
@@ -21,8 +19,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hyeonjy&show_icons=true&hide=stars,issues&count_private=true" height="150px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjy&layout=compact" height="150px"/>
 </div>
-
-<br />
 
 ### 💻 Techs <br >
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -42,8 +38,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
-
-<br />
 
 ## 📃 Toy Project 
 |기간|프로젝트명|설명|
