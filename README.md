@@ -46,6 +46,6 @@
 |기간|프로젝트명|설명|
 |------|---|---|
 |2025.01 ~ 2025.02|[한잔해](https://github.com/hyeonjy/HANJANHAE)|OpenAI Assistants를 활용한 전통주 추천 플랫폼|
-|2025.05 ~ ing |[로컬잇](https://github.com/hyeonjy/LocalEat)|지역 식당 도장깨기 플랫폼|
+|2025.07 ~ ing |[로컬잇](https://github.com/hyeonjy/local-eat)|지역 식당 도장깨기 플랫폼|
 |2024.11 ~ 2024.12|[FocusSpot](https://github.com/hyeonjy/FocusSpot)|집중하며 공부할 수 있는 spot을 모두 한 곳에 focus|
 |2022.10 ~ 2022.11 |[함께서기](https://github.com/hwangJN/Youth-Project)|보호종료청년의 자립을 돕는 웹 커뮤니티|
