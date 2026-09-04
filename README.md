@@ -2,8 +2,7 @@
   <img width="800px" src="https://github.com/user-attachments/assets/3afcc2c8-e9e5-4078-ab7f-45d3a6dec94a" />
 </div>
 
-<h3 align="center">🛠 Tech Stack</h3>
-
+<h2 align="center">🛠 Tech Stack</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -24,8 +23,7 @@
 
 <br>
 
-<h3 align="center">🏁 Now Learning</h3>
-  
+<h2 align="center">🏁 Now Learning</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -39,7 +37,7 @@
 
 <br>
 
-<h3 align="center">🌿 Version Control</h3>
+<h2 align="center">🌿 Version Control</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -48,8 +46,7 @@
 
 <br>
 
-<h3 align="center">✉️ Contact</h3>
-
+<h2 align="center">✉️ Contact</h2>
 <div align="center">
   <a href="https://velog.io/@hg024246">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
